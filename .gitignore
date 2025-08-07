@@ -3,6 +3,7 @@ backend/target/
 backend/apache-maven-3.9.6/
 backend/apache-maven-3.9.6-bin.tar.gz
 backend/quarkus-project.zip
+!backend/mvnw
 
 # Node.js
 frontend/node_modules/
