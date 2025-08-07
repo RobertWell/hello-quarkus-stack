@@ -1,0 +1,30 @@
+# Maven
+backend/target/
+backend/apache-maven-3.9.6/
+backend/apache-maven-3.9.6-bin.tar.gz
+backend/quarkus-project.zip
+
+# Node.js
+frontend/node_modules/
+frontend/build/
+frontend/.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
