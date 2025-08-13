@@ -127,3 +127,23 @@
   color: #666;
   margin: 0;
 }
+
+.nav-button {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background-color 0.3s;
+}
+
+.nav-button:hover {
+  background-color: #c0392b;
+}
+
+.auth-section span {
+  color: white;
+  font-size: 0.9rem;
+}
