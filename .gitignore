@@ -1,14 +1,15 @@
 # Maven
-backend/target/
-backend/apache-maven-3.9.6/
-backend/apache-maven-3.9.6-bin.tar.gz
-backend/quarkus-project.zip
+keycloak/backend/target/
+keycloak/backend/apache-maven-3.9.6/
+keycloak/backend/apache-maven-3.9.6-bin.tar.gz
+keycloak/backend/quarkus-project.zip
+base-auth/target/
 !backend/mvnw
 
 # Node.js
-frontend/node_modules/
-frontend/build/
-frontend/.env.local
+keycloak/frontend/node_modules/
+keycloak/frontend/build/
+keycloak/frontend/.env.local
 
 # IDE
 .vscode/
